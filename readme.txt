@@ -1,0 +1,1 @@
+Restore perf test of packages without symbols.
